@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: black;
+  background-color: #FFE001;
 }
 
 /* STANDARD IMPORTS */
@@ -20,19 +20,19 @@ body {
 }
 
 .text {
-  color: #C0C0C0 !important;
+  color: #000000 !important;
   font-family: 'Noto Sans', sans-serif !important;
 }
 
 .input {
-  color: #C0C0C0 !important;
+  color: #000000 !important;
   font-family: 'Noto Sans', sans-serif !important;
 }
  
 .headerText {
-  color: #C0C0C0 !important;
+  color: #FFE001 !important;
   font-family: 'Noto Sans', sans-serif !important;
-  background: -webkit-linear-gradient(left, #C0C0C0 0%,#D3D3D3 24%,#D3D3D3 36%,#C0C0C0 46%,#C0C0C0 52%,#C0C0C0 58%,#C0C0C0 67%,#000000 100%);
+  background: -webkit-linear-gradient(left, #FFE001 0%,#000000 24%,#000000 36%,#FFE001 46%,#FFE001 52%,#FFE001 58%,#FFE001 67%,#000000 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-size: 300%;
@@ -48,7 +48,7 @@ body {
 }
 
 .buttonFormat:hover {
-  color: green;
+  color: #000000;
   cursor: pointer;
 }
 
